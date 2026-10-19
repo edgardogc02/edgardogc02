@@ -1,6 +1,6 @@
 # Hi, I'm Edgardo 👋
 
-### Independent Senior Software Engineer · Integration Consultant · Entrepreneur
+## Independent Senior Software Engineer · Integration Consultant · Entrepreneur
 
 I'm a software engineer and entrepreneur with **20+ years of experience** designing, building, and modernizing software systems.
 
