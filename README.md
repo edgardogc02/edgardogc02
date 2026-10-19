@@ -36,7 +36,7 @@ I believe in pragmatic software engineering: solve real problems, choose the sim
 ## 📫 Let's Connect
 
 - 🌐 [Thinkronic](https://thinkronic.com)
-- 💼 LinkedIn
+- 💼 [LinkedIn](https://www.linkedin.com/in/edgardo-c-/)
 - 📍 Germany · Available for remote freelance projects
 
 ---
