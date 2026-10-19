@@ -1,43 +1,48 @@
 # Hi, I'm Edgardo 👋
 
-### Independent Senior Software Engineer & Integration Consultant
+### Independent Senior Software Engineer · Integration Consultant · Entrepreneur
 
-I'm a software engineer with 20+ years of experience building, integrating, and modernizing software systems.
+I'm a software engineer and entrepreneur with **20+ years of experience** designing, building, and modernizing software systems.
 
-I specialize in **backend engineering, enterprise integration, API architecture, and event-driven systems**.
-
-I believe in pragmatic software engineering: solve real problems, choose the simplest effective solution, and build technology that genuinely makes people's lives easier.
+My expertise spans **backend engineering, enterprise integration, APIs, software architecture, and event-driven systems**. I'm equally passionate about turning ideas into products and businesses that solve real-world problems.
 
 ## 🚀 What I Do
 
-- **Enterprise Integration & APIs** — Connecting systems, services, and platforms using MuleSoft, REST APIs, and messaging.
-- **Backend Engineering** — Building reliable applications with Elixir, Ruby, Java, and distributed architectures.
-- **Software Architecture** — Designing scalable, maintainable systems and modernizing legacy applications.
-- **AI & Automation** — Exploring practical applications of AI agents, MCP, and workflow automation.
+- **Enterprise Integration & APIs** — Connecting complex systems through MuleSoft, REST APIs, messaging, and event-driven architectures.
+- **Backend Engineering** — Building reliable, scalable applications with Elixir, Ruby, Java, and distributed systems.
+- **Software Architecture** — Designing maintainable systems, modernizing legacy applications, and solving challenging technical problems.
+- **AI & Automation** — Building practical solutions using AI, agents, APIs, and workflow automation.
+- **Entrepreneurship & Product Development** — Turning ideas into real products, from initial concept to production.
 
-## 🛠️ Technologies
+## 🛠️ Tech Stack
 
-**Languages:** Elixir, Ruby, Java, JavaScript
+**Programming Languages:** Elixir · Ruby · Java · PHP · Python · JavaScript
 
-**Integration:** MuleSoft, REST APIs, RabbitMQ, Event-Driven Architecture
+**Frameworks:** Phoenix · Ruby on Rails · Quarkus
 
-**Backend:** Phoenix, Ruby on Rails, Microservices
+**Integration & Messaging:** MuleSoft · REST APIs · RabbitMQ
 
-**Cloud & DevOps:** AWS, Azure DevOps, Docker, CI/CD
+**Architecture:** Microservices · Event-Driven Architecture · Distributed Systems
 
-**AI & Automation:** AI Agents, MCP, n8n, Make
+**Cloud & DevOps:** AWS · Azure DevOps · Docker · CI/CD
 
-## 💼 Currently
+**AI & Automation:** AI Agents · MCP · n8n · Make
 
-- Building and integrating backend systems for enterprise clients.
-- Developing **Thinkronic**, focused on pragmatic software solutions, integration, and automation.
-- Exploring how AI can solve real business problems.
+## 💡 What I'm Building
 
-## 📫 Let's Connect
+### Thinkronic — My Latest Venture
 
-- 🌐 [Thinkronic](https://thinkronic.com)
+I'm currently building **[Thinkronic](https://thinkronic.com/)**, a venture focused on helping businesses solve real problems through custom software, system integration, and AI automation.
+
+The philosophy is simple: **understand the problem first, then build the simplest effective solution that people love to use.**
+
+Alongside Thinkronic, I continue working as an independent software engineer and integration consultant, helping clients design, build, and improve their systems.
+
+## 🤝 Let's Connect
+
+- 🌐 [Thinkronic](https://thinkronic.com/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/edgardo-c-/)
-- 📍 Germany · Available for remote freelance projects
+- 📍 Based in Germany · Working remotely with clients
 
 ---
 
